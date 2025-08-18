@@ -26,6 +26,20 @@ POST /system/file/merge请求数据: <br>
 <img width="741" height="143" alt="微信图片_20250818111355_17" src="https://github.com/user-attachments/assets/5b642ab0-15fc-4f04-98db-e13acf4c89f3" /><br><br>
 
 ## 大文件上传(分片)
+文件分片上传，所有分片的文件上传完成后，调用merge接口合并。<br>
+<img width="822" height="436" alt="微信图片_2025-08-18_141222_756" src="https://github.com/user-attachments/assets/08874928-69be-42be-a9dc-23a0dc5a3705" /><br><br>
+<img width="793" height="301" alt="微信图片_2025-08-18_141227_371" src="https://github.com/user-attachments/assets/9e43f6d0-1872-4e7a-9b9b-f4db074f5320" /><br><br>
+<img width="791" height="295" alt="微信图片_2025-08-18_141234_837" src="https://github.com/user-attachments/assets/38d142d9-e290-4e2e-91ae-816964341a0d" /><br><br>
+<img width="794" height="296" alt="微信图片_2025-08-18_141240_462" src="https://github.com/user-attachments/assets/a1d3f56c-4d32-43e9-8524-44956a6e2a0e" /><br><br>
+<img width="793" height="296" alt="微信图片_2025-08-18_141245_708" src="https://github.com/user-attachments/assets/f22fc6b1-d567-4458-89e8-c0372ead8693" /><br><br>
+<img width="791" height="144" alt="微信图片_2025-08-18_141250_270" src="https://github.com/user-attachments/assets/b6771ce7-c025-414e-a09b-f0595a7fe90d" /><br><br>
+
+
+
+
+
+
+
 ## 秒传
 请求2个接口：<br>
 <img width="735" height="41" alt="微信图片_20250818110511_13" src="https://github.com/user-attachments/assets/10b2e7cc-25ea-4f6f-91af-8d7641145360" /><br><br>
