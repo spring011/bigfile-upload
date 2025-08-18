@@ -1,10 +1,8 @@
 <template>
   <div class="container">
-    <n-config-provider :theme="null">
         <div class="m-search">
           <div class="buttons flex flex-row items-center justify-between gap-x-10px">
             <n-space>
-
               <n-button
                 size="large"
                 color="#1EA5FC"
@@ -17,7 +15,6 @@
             </n-space>
           </div>
         </div>
-    </n-config-provider>
     <file-uploader  ref="fileUploader"></file-uploader>
   </div>
 
@@ -26,6 +23,7 @@
 
 import { ref } from 'vue';
 import FileUploader from './FileUploader.vue';
+import { NButton, NSpace,  } from 'naive-ui';
 
 const fileUploader = ref();
 

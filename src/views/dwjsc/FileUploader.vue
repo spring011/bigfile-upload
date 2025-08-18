@@ -1,7 +1,5 @@
 <template>
   <div id="global-uploader">
-    <div>{{ type }}</div>
-
     <!-- 上传 -->
     <uploader
       ref="uploader"
@@ -54,7 +52,6 @@
    *            Bus.$on('fileSuccess', fn); 文件上传成功的回调
    */
 import $ from 'jquery';
-import Cookies from 'js-cookie';
 import SparkMD5 from 'spark-md5';
 import uploader from 'vue-simple-uploader';
 // import Bus from '../../../../assets/js/bus';
