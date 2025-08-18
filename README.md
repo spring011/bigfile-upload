@@ -21,3 +21,11 @@ GET /system/file/uploadChunk请求参数: <br>
 接口响应数据: <br>
 <img width="773" height="171" alt="微信图片_20250818103424_12" src="https://github.com/user-attachments/assets/6d45263b-9eb8-4374-a3ca-581e44a1e1d8" />
 ## 大文件上传(分片)
+## 秒传
+接口：<br>
+<img width="735" height="41" alt="微信图片_20250818110511_13" src="https://github.com/user-attachments/assets/10b2e7cc-25ea-4f6f-91af-8d7641145360" /><br><br>
+GET /system/file/uploadChunk请求参数: <br>
+<img width="744" height="245" alt="微信图片_20250818110516_14" src="https://github.com/user-attachments/assets/8a24c2bd-fe28-4f2b-9837-a18360a228c8" />
+POST /system/file/merge: <br>
+<img width="741" height="169" alt="微信图片_20250818110520_15" src="https://github.com/user-attachments/assets/519a1afa-19ad-4b6c-8ef6-0b1b2e1c17e5" />
+
