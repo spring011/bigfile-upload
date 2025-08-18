@@ -10,9 +10,6 @@
 1. GET /system/file/uploadChunk
 2. POST /system/file/uploadChunk
 3. POST /system/file/merge
-### GET /system/file/uploadChunk
-### POST /system/file/uploadChunk
-### POST /system/file/merge
 ## 小文件上传(单个)
 请求3个接口：<br>
 <img width="741" style="margin-bottom:12" height="61" alt="微信图片_20250818103410_10" src="https://github.com/user-attachments/assets/bb2e03fb-6024-4702-b0d9-c69ef2498da2" /><br><br>
