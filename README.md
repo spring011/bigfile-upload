@@ -5,3 +5,8 @@
 2. 妙传
 3. 断点续传
 4. 显示上传进度
+## 接口
+需要3个接口：<br>
+1. GET /system/file/upload
+2. POST /system/file/upload
+3. Post  /system/file/merge
