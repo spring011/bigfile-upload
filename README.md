@@ -9,4 +9,7 @@
 需要3个接口：<br>
 1. GET /system/file/upload
 2. POST /system/file/upload
-3. Post  /system/file/merge
+3. POST /system/file/merge
+### GET /system/file/upload
+### POST /system/file/upload
+### POST /system/file/merge
